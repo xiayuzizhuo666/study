@@ -1,0 +1,8 @@
+﻿  源.cpp
+E:\A code\study\1\study c++\9\test_9_28\源.cpp(101,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\A code\study\1\study c++\9\test_9_28\源.cpp(101,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\A code\study\1\study c++\9\test_9_28\源.cpp(126,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\A code\study\1\study c++\9\test_9_28\源.cpp(126,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\A code\study\1\study c++\9\test_9_28\源.cpp(138,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\A code\study\1\study c++\9\test_9_28\源.cpp(42,1): warning C4715: “creat_random”: 不是所有的控件路径都返回值
+  test_9_28.vcxproj -> E:\A code\study\1\study c++\9\test_9_28\x64\Debug\test_9_28.exe
