@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\A code\study\1\study c++\10\test_10_24\test.cpp(150,12): warning C4101: “j”: 未引用的局部变量
+E:\A code\study\1\study c++\10\test_10_24\test.cpp(150,9): warning C4101: “i”: 未引用的局部变量
+  test_10_24.vcxproj -> E:\A code\study\1\study c++\10\test_10_24\x64\Debug\test_10_24.exe
