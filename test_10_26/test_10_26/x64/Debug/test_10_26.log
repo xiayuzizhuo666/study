@@ -1,0 +1,2 @@
+﻿  test.cpp
+E:\A code\study\1\study c++\10\test_10_26\test.cpp(32,2): error C2679: 二元“<<”: 没有找到接受“std::vector<int,std::allocator<int>>”类型的右操作数的运算符(或没有可接受的转换)
