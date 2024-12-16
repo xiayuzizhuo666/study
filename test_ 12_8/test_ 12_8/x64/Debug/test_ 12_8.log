@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\A code\study\1\study c++\12\test_ 12_8\test.cpp(75,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  test_ 12_8.vcxproj -> E:\A code\study\1\study c++\12\test_ 12_8\x64\Debug\test_ 12_8.exe
