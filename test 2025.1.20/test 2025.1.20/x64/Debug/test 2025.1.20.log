@@ -1,0 +1,2 @@
+﻿  test.cpp
+E:\A code\study\1\study c++\1(2025)\test 2025.1.20\test.cpp(134,20): error C2429: 语言功能 "结构化绑定" 需要编译器标志 "/std:c++17"
