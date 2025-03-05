@@ -1,0 +1,10 @@
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二=4.csprojAssemblyReference.cache
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二_4.Form1.resources
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二_4.Properties.Resources.resources
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二=4.csproj.GenerateResource.cache
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二=4.csproj.CoreCompileInputs.cache
+C:\Users\B304\Desktop\实验二\实验二=4\bin\Debug\实验二=4.exe.config
+C:\Users\B304\Desktop\实验二\实验二=4\bin\Debug\实验二=4.exe
+C:\Users\B304\Desktop\实验二\实验二=4\bin\Debug\实验二=4.pdb
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二=4.exe
+C:\Users\B304\Desktop\实验二\实验二=4\obj\Debug\实验二=4.pdb

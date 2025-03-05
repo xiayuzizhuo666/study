@@ -1,0 +1,7 @@
+C:\Users\xiayu\Desktop\实验二\实验二=5\bin\Debug\实验二=5.exe.config
+C:\Users\xiayu\Desktop\实验二\实验二=5\bin\Debug\实验二=5.exe
+C:\Users\xiayu\Desktop\实验二\实验二=5\bin\Debug\实验二=5.pdb
+C:\Users\xiayu\Desktop\实验二\实验二=5\obj\Debug\实验二=5.csproj.AssemblyReference.cache
+C:\Users\xiayu\Desktop\实验二\实验二=5\obj\Debug\实验二=5.csproj.CoreCompileInputs.cache
+C:\Users\xiayu\Desktop\实验二\实验二=5\obj\Debug\实验二=5.exe
+C:\Users\xiayu\Desktop\实验二\实验二=5\obj\Debug\实验二=5.pdb
