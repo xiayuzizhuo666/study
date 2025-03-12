@@ -1,0 +1,10 @@
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\bin\Debug\实验三=1（正式）.exe.config
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\bin\Debug\实验三=1（正式）.exe
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\bin\Debug\实验三=1（正式）.pdb
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三=1（正式）.csprojAssemblyReference.cache
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三_1_正式_.Form1.resources
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三_1_正式_.Properties.Resources.resources
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三=1（正式）.csproj.GenerateResource.cache
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三=1（正式）.csproj.CoreCompileInputs.cache
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三=1（正式）.exe
+C:\Users\B304\Desktop\实验三\实验三=1（正式）\obj\Debug\实验三=1（正式）.pdb

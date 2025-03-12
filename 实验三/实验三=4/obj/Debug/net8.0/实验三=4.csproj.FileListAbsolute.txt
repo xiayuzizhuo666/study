@@ -1,0 +1,14 @@
+C:\Users\xiayu\Desktop\实验三\实验三=4\bin\Debug\net8.0\实验三=4.exe
+C:\Users\xiayu\Desktop\实验三\实验三=4\bin\Debug\net8.0\实验三=4.deps.json
+C:\Users\xiayu\Desktop\实验三\实验三=4\bin\Debug\net8.0\实验三=4.runtimeconfig.json
+C:\Users\xiayu\Desktop\实验三\实验三=4\bin\Debug\net8.0\实验三=4.dll
+C:\Users\xiayu\Desktop\实验三\实验三=4\bin\Debug\net8.0\实验三=4.pdb
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.AssemblyInfoInputs.cache
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.AssemblyInfo.cs
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.csproj.CoreCompileInputs.cache
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.dll
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\refint\实验三=4.dll
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.pdb
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\实验三=4.genruntimeconfig.cache
+C:\Users\xiayu\Desktop\实验三\实验三=4\obj\Debug\net8.0\ref\实验三=4.dll
