@@ -1,0 +1,10 @@
+C:\Users\B304\Desktop\实验六\实验六=3\bin\Debug\实验六=3.exe.config
+C:\Users\B304\Desktop\实验六\实验六=3\bin\Debug\实验六=3.exe
+C:\Users\B304\Desktop\实验六\实验六=3\bin\Debug\实验六=3.pdb
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六=3.csprojAssemblyReference.cache
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六_3.Form1.resources
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六_3.Properties.Resources.resources
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六=3.csproj.GenerateResource.cache
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六=3.csproj.CoreCompileInputs.cache
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六=3.exe
+C:\Users\B304\Desktop\实验六\实验六=3\obj\Debug\实验六=3.pdb
