@@ -1,0 +1,10 @@
+C:\Users\B304\Desktop\实验十二\实验十二_2\bin\Debug\实验十二_2.exe.config
+C:\Users\B304\Desktop\实验十二\实验十二_2\bin\Debug\实验十二_2.exe
+C:\Users\B304\Desktop\实验十二\实验十二_2\bin\Debug\实验十二_2.pdb
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.csprojAssemblyReference.cache
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.Form1.resources
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.Properties.Resources.resources
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.csproj.GenerateResource.cache
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.csproj.CoreCompileInputs.cache
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.exe
+C:\Users\B304\Desktop\实验十二\实验十二_2\obj\Debug\实验十二_2.pdb
