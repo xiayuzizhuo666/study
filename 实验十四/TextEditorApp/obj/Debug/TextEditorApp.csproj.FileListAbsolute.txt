@@ -1,0 +1,10 @@
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\bin\Debug\TextEditorApp.exe.config
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\bin\Debug\TextEditorApp.exe
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\bin\Debug\TextEditorApp.pdb
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.csproj.AssemblyReference.cache
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.Form1.resources
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.Properties.Resources.resources
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.csproj.GenerateResource.cache
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.csproj.CoreCompileInputs.cache
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.exe
+C:\Users\xiayu\Desktop\实验十四\TextEditorApp\obj\Debug\TextEditorApp.pdb

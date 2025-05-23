@@ -1,0 +1,10 @@
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\bin\Debug\PopupMenuDemo.exe.config
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\bin\Debug\PopupMenuDemo.exe
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\bin\Debug\PopupMenuDemo.pdb
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.csproj.AssemblyReference.cache
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.Form1.resources
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.Properties.Resources.resources
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.csproj.GenerateResource.cache
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.csproj.CoreCompileInputs.cache
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.exe
+C:\Users\xiayu\Desktop\实验十四\PopupMenuDemo\obj\Debug\PopupMenuDemo.pdb
